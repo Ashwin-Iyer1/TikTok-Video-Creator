@@ -1,0 +1,2 @@
+This folder holds the clips when saving, the program will throw an error if 
+this folder is not here as the program does not create the clip folder.
