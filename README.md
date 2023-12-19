@@ -3,12 +3,18 @@
 This program will take in 2 videos from either Youtube or a local video, split them into segmented chunks, and stack the videos for uploading to TikTok
 
 ##✅ Features ✅##
+
 • Video Downloading
+
 • Video Uploading
+
 • Video Splitting
+
 • Video Combining
 
+
 ##🚧 Maybe Coming Soon 🚧##
+
 • Captions Overlay
 
 ## How can I install and use this?
