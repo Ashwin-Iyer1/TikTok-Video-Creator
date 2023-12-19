@@ -11,4 +11,4 @@ This program will take in a video from either youtube or a local video and split
    <pre>pip install -r requirements.txt</pre>
 3. Make sure you have Google Chrome installed
 4. Run the .py file!
-   <pre>python tiktodv4.py</pre>
+   <pre>python run.py</pre>
