@@ -1,6 +1,15 @@
 **This program is for educational purposes only**
 
-This program will take in a video from either youtube or a local video and split it into segmented chunks for uploading to Tik Tok
+This program will take in 2 videos from either Toutube or a local video, split them into segmented chunks, and stack the videos for uploading to TikTok
+
+##✅ Features ✅##
+• Video Downloading
+• Video Uploading
+• Video Splitting
+• Video Combining
+
+##🚧 Maybe Coming Soon 🚧##
+• Captions Overlay
 
 ## How can I install and use this?
 1. Git-clone this repo & change directory
