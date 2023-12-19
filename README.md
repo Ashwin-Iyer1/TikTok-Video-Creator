@@ -24,6 +24,5 @@ This program will take in 2 videos from either Youtube or a local video, split t
    <pre>cd TikTok-Video-Creator</pre>
 2. Install modules using pip:
    <pre>pip install -r requirements.txt</pre>
-3. Make sure you have Google Chrome installed
-4. Run the .py file!
+3. Run the .py file!
    <pre>python run.py</pre>
