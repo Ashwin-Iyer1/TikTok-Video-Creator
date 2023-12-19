@@ -1,6 +1,6 @@
 **This program is for educational purposes only**
 
-This program will take in 2 videos from either Toutube or a local video, split them into segmented chunks, and stack the videos for uploading to TikTok
+This program will take in 2 videos from either Youtube or a local video, split them into segmented chunks, and stack the videos for uploading to TikTok
 
 ##✅ Features ✅##
 • Video Downloading
