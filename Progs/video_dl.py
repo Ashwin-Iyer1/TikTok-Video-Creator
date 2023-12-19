@@ -1,7 +1,7 @@
 from pytube import YouTube
 # from youtube_transcript_api import YouTubeTranscriptApi 
 
-def main(video_link):
+def main(video_link, name):
 
     yt = YouTube(video_link)
     video_streams = yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc()
@@ -10,7 +10,7 @@ def main(video_link):
         print(f"{i + 1}. Resolution: {stream.resolution}")
     selected_resolution_index = int(input("Enter the number corresponding to the resolution you want to download: ")) - 1
     selected_stream = video_streams[selected_resolution_index]
-    selected_stream.download(filename="clips/video.mp4")
+    selected_stream.download(filename="clips/" + name + ".mp4")
     return("Completed")
 
 #Captions stuff, working but not needed until caption adder is working
