@@ -1,2 +1,3 @@
-This folder holds the clips when saving, the program will throw an error if 
-this folder is not here as the program does not create the clip folder.
+Historical output-directory note: the maintained Splitframe studio creates isolated
+render directories under workspace/. This clips/ directory is no longer required.
+See the root README for the current workflow. No source video is overwritten.
